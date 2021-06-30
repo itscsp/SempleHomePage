@@ -20,6 +20,11 @@ h6{
 	color: var(--white);
 }
 
+a{
+	text-decoration: none;
+	color: var(--white);
+}
+
 li{
 	list-style: :none;
 	color: var(--white)
